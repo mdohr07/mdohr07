@@ -34,11 +34,11 @@ What you imagine, you create."<br>
 Apart from coding, I am enthusiastic about road cycling. Also painting and drawing are still close to my heart, but now more of a hobby.
 
 ### Connect with Me
-🛸 [Personal Website on Neocities](https://mdohr07.neocities.org)  
-👽 [Dev Blog](https://mdohr07.netlify.app)
+🛸 <a href="https://mdohr07.neocities.org" target="_blank" rel="me">[Personal website]</a><br>
+👽 <a href="https://mdohr.space" target="_blank" rel="me">[Dev Blog]</a><br>
+🐘 <a href="https://mastodon.social/@mdohr07" target="_blank" rel="me">[Mastodon]</a>
 
 Let's connect and create something amazing together! 🚀✨
-
 
 <!---
 mdohr07/mdohr07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
