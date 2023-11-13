@@ -14,7 +14,7 @@ What you imagine, you create."<br>
 ### 💻 Technologies & Skills
 
 - **Languages**: HTML, CSS, SASS, JavaScript
-- **CMS & Tools**: Wordpress, FTP, Shopify and a little bit MySQL, Astro
+- **CMS & Tools**: Wordpress, FTP, Shopify, Astro and a little bit MySQL
 - **Software**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, ZBrush, Blender
 
 🌱 I’m currently learning **JavaScript & Git**
