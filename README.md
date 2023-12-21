@@ -15,7 +15,7 @@ What you imagine, you create."<br>
 
 - **Languages**: HTML, CSS, SASS, JavaScript
 - **CMS & Tools**: Wordpress, FTP, Shopify, Astro and a little bit MySQL
-- **Software**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, ZBrush, Blender
+- **Software**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, ZBrush, Blender, a little bit of Figma
 
 🌱 I’m currently learning **JavaScript & Git**
 
@@ -26,7 +26,8 @@ What you imagine, you create."<br>
 - [Coffee Stop](https://github.com/mdohr07/coffeestop): A cycling café project blending coffee and bicycle services.
 - [Personal Blog](https://github.com/mdohr07/blog): A frontend development blog in German - built with Astro.
 
-- 🔭 I’m currently working on [Anomaly Agency](https://github.com/mdohr07/anomalyagency)
+<!--
+- 🔭 I’m currently working on [Anomaly Agency](https://github.com/mdohr07/anomalyagency) -->
 
 
 ### 🚴‍♀️ Hobbies
@@ -37,6 +38,8 @@ Apart from coding, I am enthusiastic about road cycling. Also painting and drawi
 🛸 <a href="https://mdohr07.neocities.org" target="_blank" rel="me">[Personal website]</a><br>
 👽 <a href="https://mdohr.space" target="_blank" rel="me">[Dev Blog]</a><br>
 🐘 <a href="https://mastodon.social/@mdohr07" target="_blank" rel="me">[Mastodon]</a>
+
+📧 <a href="mailto: mdohr07@gmail.com" rel="me">[Email]</a>
 
 Let's connect and create something amazing together! 🚀✨
 
