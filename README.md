@@ -22,6 +22,7 @@ What you imagine, you create."<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=5&theme=radical)]()
 
 🌟 **Projects:**
+- [Galaxy Groove](https://github.com/mdohr07/anomalyagency): Scully and Mulder left the FBI.
 - [Galaxy Groove](https://github.com/mdohr07/galaxygroove): A retro space game and online community concept.
 - [Coffee Stop](https://github.com/mdohr07/coffeestop): A cycling café project blending coffee and bicycle services.
 - [Personal Blog](https://github.com/mdohr07/blog): A frontend development blog in German - built with Astro.
