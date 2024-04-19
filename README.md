@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-Hi there! 👋 I'm Miriam, also known as **mdohr07**, a devoted Frontend Developer with a background in Graphic Design and a love for the Old Web and Indie Web.
+Hi there! 👋 I'm Miriam, also known as **mirpx**, a devoted Frontend Developer with a background in Graphic Design and a love for the Old Web and Indie Web.
 I recently completed a Web Development course to level up my skills. Originally trained as a graphic designer, I spent the last decade freelancing as a Concept Artist and Comic Artist. 
 Back in 1999, I taught myself HTML and CSS to build static websites. During my studies, I also worked as a Web Designer and my current focus lies in leveling up my Web Dev skills.
 
@@ -35,12 +35,8 @@ What you imagine, you create."<br>
 
 Apart from coding, I am enthusiastic about road cycling. Also painting and drawing are still close to my heart, but now more of a hobby.
 
-### Connect with Me
-🛸 <a href="https://mdohr07.neocities.org" target="_blank" rel="me">[Personal website]</a><br>
-👽 <a href="https://mdohr.space" target="_blank" rel="me">[Dev Blog]</a><br>
-🐘 <a href="https://mastodon.social/@mdohr07" target="_blank" rel="me">[Mastodon]</a>
-
-📧 <a href="mailto: mdohr07@gmail.com" rel="me">[Email]</a>
+### Contact Me
+📧 <a href="mailto: mblip@duck.com">[Email]</a>
 
 Let's connect and create something amazing together! 🚀✨
 
