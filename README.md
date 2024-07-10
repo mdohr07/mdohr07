@@ -17,7 +17,7 @@ What you imagine, you create."<br>
 - **CMS & Tools**: Wordpress, FTP, Shopify, Astro and a little bit MySQL
 - **Software**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, ZBrush, Blender, a little bit of Figma
 
-🌱 I’m currently learning **JavaScript & Git**
+🌱 I’m currently learning **Git**
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=5&theme=radical)]()
 
