@@ -17,9 +17,11 @@ What you imagine, you create."<br>
 - **CMS & Tools**: Wordpress, FTP, Shopify, Astro and a little bit MySQL
 - **Software**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, ZBrush, Blender, a little bit of Figma
 
-🌱 I’m currently learning **Git**
+🌱 I’m currently learning **Git** and **Java**
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=5&theme=radical)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mdohr07&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 🌟 **Projects:**
 - [Anomaly Agency](https://github.com/mdohr07/anomalyagency): Scully and Mulder left the FBI.
