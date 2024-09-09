@@ -1,8 +1,8 @@
 ## 👽 About Me
 
-Hi there! ✌️ I'm Miriam, also known as **mdohr07**, a Frontend Developer with a background in Graphic Design and a love for the Old Web and Indie Web.
-I am currently retraining to become an IT specialist. Originally trained as a graphic designer, I spent the last decade freelancing as a Concept Artist and Comic Artist. 
-Back in 1999, I taught myself HTML and CSS to build static websites. During my studies, I also worked as a Web Designer and my current focus lies in leveling up my Web Dev skills.
+Hi there!
+I'm Miriam, also known as **mdohr07** and I am currently retraining to become an IT specialist. Originally trained as a graphic designer, I spent the last decade freelancing as a Concept Designer and Comic Artist. 
+Back in 1999, I taught myself HTML and CSS to build static websites. During my studies, I also worked as a Web Designer and I have lots of love for the Old Web and Indie Web.
 
 "What you think, you become.<br>
 What you feel, you attract.<br>
