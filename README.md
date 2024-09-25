@@ -13,11 +13,14 @@ What you imagine, you create."<br>
 
 ### 💻 Technologies & Skills
 
-- **Languages**: HTML, CSS, SASS, JavaScript
-- **CMS & Tools**: Wordpress, FTP, Shopify, Astro
-- **Software**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign, ZBrush, Blender, a little bit of Figma
+- **Languages:** HTML, CSS, some SASS and some JavaScript
+
+- **CMS & Tools:** Wordpress & Astro
+
+- **Software:** VS Code & IntelliJ
 
 🌱 I’m currently learning **Git** and **Java**
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=5&theme=radical)]()
 
@@ -37,9 +40,7 @@ What you imagine, you create."<br>
 Apart from coding, I am enthusiastic about road cycling. Also painting and drawing are still close to my heart, but now more of a hobby.
 
 ### Contact Me
-📧 <a href="mailto: mblip@duck.com">[Email]</a>
-
-Let's connect and create something amazing together! 🚀✨
+📧 <a href="mailto: mdohr07@gmail.com">[Email]</a>
 
 <!---
 mdohr07/mdohr07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
