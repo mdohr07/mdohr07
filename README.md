@@ -22,7 +22,7 @@ What you imagine, you create."<br>
 🌱 I’m currently learning **Git** and **Java**
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=5&theme=radical)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=6&theme=radical)]()
 
 
 🌟 **Projects:**
