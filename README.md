@@ -28,7 +28,7 @@ Back in 1999, I taught myself HTML and CSS to build static websites. During my s
 "What you think, you become.<br>
 What you feel, you attract.<br>
 What you imagine, you create."<br>
-*- Buddha*
+<i>- Buddha -</i>
 </i></p>
 
 <p align="center">
