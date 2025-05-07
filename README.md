@@ -1,7 +1,8 @@
 ## 👽 ​𝒶𝒷𝑜𝓊𝓉 𝓂𝑒
-Hi there!
-I'm Miriam, also known as **mdohr07** and I am currently retraining to become an IT specialist. Originally trained as a graphic designer, I spent the last decade freelancing as a Concept Designer and Comic Artist. 
-Back in 1999, I taught myself HTML and CSS to build static websites. During my studies, I also worked as a Web Designer and I have lots of love for the Old Web and Indie Web.
+🎨 Originally trained as a **graphic designer**, I spent over a decade freelancing as a **concept designer** and **comic artist**.  
+💻 Today, I'm retraining as an **IT specialist** and loving the blend of **creativity + code**.  
+🕸️ I taught myself HTML/CSS in 1999 and still have a soft spot for the **Old Web** and **Indie Web** movements.  
+
 <hr>
 <p align="center">
   <span>
@@ -15,6 +16,7 @@ Back in 1999, I taught myself HTML and CSS to build static websites. During my s
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </span>
 </p>
+
 <p align="center">
     <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
@@ -23,33 +25,43 @@ Back in 1999, I taught myself HTML and CSS to build static websites. During my s
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intelliJ Idea">
   </span>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=6&theme=radical" alt="Top Langs">
+  &nbsp;
+  <img src="https://mdohr.space/src/img/assets/graphics/canvas.png" alt="Custom Canvas Graphic" width="300">
+</p>
 
 <p align="center"><i>
 "What you think, you become.<br>
 What you feel, you attract.<br>
 What you imagine, you create."<br>
-<i>- Buddha -</i>
+– <strong>Buddha</strong>
 </i></p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=6&theme=radical">
-</p>
 
 <hr>
 
-### 🌟 Projects
-- [Anomaly Agency](https://github.com/mdohr07/anomalyagency): Scully and Mulder left the FBI.
-- [Galaxy Groove](https://github.com/mdohr07/galaxygroove): A retro space game and online community concept.
-- [Coffee Stop](https://github.com/mdohr07/coffeestop): A cycling café project blending coffee and bicycle services.
+### ✨ PROJECTS
 
-### 🚴‍♀️ Hobbies
+- 🔍 [**Anomaly Agency**](https://github.com/mdohr07/anomalyagency)  
+  <sub>Scully and Mulder left the FBI.</sub>
+- 🪐 [**Galaxy Groove**](https://github.com/mdohr07/galaxygroove)  
+  <sub>A retro space game and online community concept.</sub>
+- ☕ [**Coffee Stop**](https://github.com/mdohr07/coffeestop)  
+  <sub>A cycling café project blending coffee and bicycle services.</sub>
 
-Apart from coding, I am enthusiastic about road cycling. Also painting and drawing are still close to my heart, but now more of a hobby.
+### 🚴‍♀️ HOBBIES
 
-### Contact Me
-<a href="mailto: mdohr07@gmail.com">
-<img src="https://img.shields.io/badge/ask_me-anything-blueviolet.svg">
-</a>
+Outside of coding:
+- 🚲 Road cycling keeps me moving.
+- 🎨 Drawing and painting still fuel my soul — just less commercially now.
+
+### 📬 CONTACT
+
+<p>
+  <a href="mailto:mdohr07@gmail.com">
+    <img src="https://img.shields.io/badge/ask_me-anything-blueviolet.svg" alt="Email me">
+  </a>
+</p>
 
 
 <!---
