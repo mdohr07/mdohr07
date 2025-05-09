@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=6&theme=radical" alt="Top Langs">
-  &nbsp;
+  
   <img src="https://mdohr.space/src/img/assets/graphics/canvas.png" alt="Custom Canvas Graphic" width="300">
 </p>
 
@@ -53,7 +53,7 @@ What you imagine, you create."<br>
 
 Outside of coding:
 - 🚲 Road cycling keeps me moving.
-- 🎨 Drawing and painting still fuel my soul — just less commercially now.
+- 🎨 Drawing and painting still fuel my soul — just as a hobby now.
 
 ### 📬 CONTACT
 
