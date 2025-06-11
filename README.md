@@ -26,7 +26,7 @@
   </span>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=6&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=10&theme=radical" alt="Top Langs">
   
   <img src="https://mdohr.space/img/assets/mblip-full.png" alt="Custom Canvas Graphic" width="300">
 </p>
