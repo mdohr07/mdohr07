@@ -1,7 +1,7 @@
 ## 👽 ​𝒶𝒷𝑜𝓊𝓉 𝓂𝑒
-🎨 Originally trained as a **graphic designer**, I spent over a decade freelancing as a **concept designer** and **comic artist**.  
-💻 Today, I'm retraining as an **IT specialist** and loving the blend of **creativity + code**.  
-🕸️ I taught myself HTML/CSS in 1999 and still have a soft spot for the **Old Web** and **Indie Web** movements.  
+Originally trained as a **graphic designer**, I spent over a decade freelancing as a **concept designer** and **comic artist**.  
+Today, I'm retraining as an **IT specialist** and loving the blend of **creativity + code**.  
+I taught myself HTML/CSS in 1999 and still have a soft spot for the **Old Web** and **Indie Web** movements.  
 
 <hr>
 <p align="center">
@@ -40,20 +40,21 @@ What you imagine, you create."<br>
 
 <hr>
 
-### ✨ PROJECTS
+### PROJECTS
 
-- 🔍 [**Anomaly Agency**](https://github.com/mdohr07/anomalyagency)  
+- [**Anomaly Agency**](https://github.com/mdohr07/anomalyagency)  
   <sub>Scully and Mulder left the FBI.</sub>
-- 🪐 [**Galaxy Groove**](https://github.com/mdohr07/galaxygroove)  
+- [**Galaxy Groove**](https://github.com/mdohr07/galaxygroove)  
   <sub>A retro space game and online community concept.</sub>
-- ☕ [**Coffee Stop**](https://github.com/mdohr07/coffeestop)  
+- [**Coffee Stop**](https://github.com/mdohr07/coffeestop)  
   <sub>A cycling café project blending coffee and bicycle services.</sub>
 
-### 🚴‍♀️ HOBBIES
+### HOBBIES
 
-Outside of coding:
-- 🚲 Road cycling keeps me moving.
-- 🎨 Drawing and painting still fuel my soul — just as a hobby now, but also journaling is an important part of my life.
+- Indie Web
+- Road cycling
+- Drawing and painting
+- Journaling
 
 ### 📬 CONTACT
 
