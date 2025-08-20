@@ -53,7 +53,7 @@ What you imagine, you create."<br>
 
 Outside of coding:
 - 🚲 Road cycling keeps me moving.
-- 🎨 Drawing and painting still fuel my soul — just as a hobby now.
+- 🎨 Drawing and painting still fuel my soul — just as a hobby now, but also journaling is an important part of my life.
 
 ### 📬 CONTACT
 
