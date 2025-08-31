@@ -33,13 +33,13 @@ Drawn to the Indie Web, meaningful projects, and clean code, with an eye toward 
 <p align="center">
   <a href="https://github.com/mdohr07/coffeestop"><b>Coffee Stop</b></a><br>
   A cycling café project blending coffee and bicycle services. [Live demo available]<br>
-  <sub>[HTML, CSS, JavaScript</sub>]<br><br>
+  <sub>[HTML, CSS, JavaScript]</sub><br><br>
 </p>
 
 <p align="center">
   <a href="https://github.com/mdohr07/react-recipe-page"><b>React Recipe Page</b></a><br>
   A recipe app built with React,TypeScript and recipe API, showcasing clean component structure and modern frontend practices. [GitHub only]<br>
-      <sub>[React, TypeScript, CSS]</sub><br><br>
+      <sub>[React, TypeScript, CSS with Vite and DaisyUI]</sub><br><br>
 </p>
 <p align="center">
   <a href="https://github.com/mdohr07/tarot-webapp"><b>Tarot Webapp</b></a><br>
