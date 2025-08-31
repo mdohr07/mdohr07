@@ -21,9 +21,10 @@ Drawn to the Indie Web, meaningful projects, and clean code, with an eye toward 
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&langs_count=10&theme=radical" alt="Top Langs">
-  <img src="https://mdohr.space/img/assets/mblip-full.png" alt="Custom Canvas Graphic" width="300">
+<p align="center">  
+    <img src="https://mdohr.space/img/assets/mblip-full.png" alt="Custom Canvas Graphic" width="300">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="400" />
+
 </p>
 
 <hr>
