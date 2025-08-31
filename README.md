@@ -1,8 +1,7 @@
 # About me 👽
 <p align="center">
-Originally trained as a <b>graphic designer</b>, I spent over a decade freelancing as an <b>artist</b>.<br>
-currently, I'm retraining as an <b>IT specialist</b> and loving the blend of <b>creativity + code</b>.<br>
-I taught myself HTML/CSS in 1999 and still have a soft spot for the <b>Old Web</b> and <b>Indie Web</b> movements.
+Frontend developer working with TypeScript, React, and Astro.<br>
+Drawn to the Indie Web, meaningful projects, and clean code, with an eye on mobile and fullstack in the future.
 </p>
 
 <p align="center">
