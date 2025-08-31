@@ -1,4 +1,4 @@
-# 👽 ​About me
+# About me 👽
 <p align="center">
 Originally trained as a <b>graphic designer</b>, I spent over a decade freelancing as an <b>artist</b>.<br>
 currently, I'm retraining as an <b>IT specialist</b> and loving the blend of <b>creativity + code</b>.<br>
