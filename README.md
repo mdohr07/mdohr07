@@ -1,4 +1,4 @@
-## 👽 ​𝒶𝒷𝑜𝓊𝓉 𝓂𝑒
+## 👽 ​About me
 <p align="center">
 Originally trained as a <b>graphic designer</b>, I spent over a decade freelancing as a <b>concept designer</b> and <b>comic artist</b>.<br>
 Today, I'm retraining as an <b>IT specialist</b> and loving the blend of <b>creativity + code</b>.<br>
@@ -36,10 +36,6 @@ I taught myself HTML/CSS in 1999 and still have a soft spot for the <b>Old Web</
   <sub>A retro space game and online community concept.</sub><br><br>
   <a href="https://github.com/mdohr07/coffeestop"><b>Coffee Stop</b></a><br>
   <sub>A cycling café project blending coffee and bicycle services.</sub>
-</p>
-
-<p align="center"><b>HOBBIES</b><br>
-Indie Web · Road cycling · Drawing and painting · Journaling
 </p>
 
 <p align="center"><b>📬 CONTACT</b><br>
