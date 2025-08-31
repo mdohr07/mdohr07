@@ -24,7 +24,6 @@ Drawn to the Indie Web, meaningful projects, and clean code, with an eye toward 
 <p align="center">  
     <img src="https://mdohr.space/img/assets/mblip-full.png" alt="Custom Canvas Graphic" width="300">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="400" />
-
 </p>
 
 <hr>
@@ -46,7 +45,8 @@ Drawn to the Indie Web, meaningful projects, and clean code, with an eye toward 
   <a href="https://github.com/mdohr07/tarot-webapp"><b>Tarot Webapp</b></a><br>
   An interactive web app for drawing tarot cards, built with Java and tarot API. [With video preview]<br>
      <sub>[Java, HTML, CSS]</sub><br><br>
-</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdohr07&theme=tokyonight&hide_border=false" width="400" />
 </p>
 
 <p align="center">•:•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•:•</p>
