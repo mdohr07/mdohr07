@@ -1,7 +1,7 @@
 ## 👽 ​About me
 <p align="center">
-Originally trained as a <b>graphic designer</b>, I spent over a decade freelancing as a <b>concept designer</b> and <b>comic artist</b>.<br>
-Today, I'm retraining as an <b>IT specialist</b> and loving the blend of <b>creativity + code</b>.<br>
+Originally trained as a <b>graphic designer</b>, I spent over a decade freelancing as an <b>artist</b>.<br>
+currently, I'm retraining as an <b>IT specialist</b> and loving the blend of <b>creativity + code</b>.<br>
 I taught myself HTML/CSS in 1999 and still have a soft spot for the <b>Old Web</b> and <b>Indie Web</b> movements.
 </p>
 
