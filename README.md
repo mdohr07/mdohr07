@@ -1,4 +1,4 @@
-## 👽 ​About me
+# 👽 ​About me
 <p align="center">
 Originally trained as a <b>graphic designer</b>, I spent over a decade freelancing as an <b>artist</b>.<br>
 currently, I'm retraining as an <b>IT specialist</b> and loving the blend of <b>creativity + code</b>.<br>
@@ -38,7 +38,7 @@ I taught myself HTML/CSS in 1999 and still have a soft spot for the <b>Old Web</
   <sub>A cycling café project blending coffee and bicycle services.</sub>
 </p>
 
-<p align="center"><b>📬 CONTACT</b><br>
+<p align="center"><b>CONTACT</b><br>
   <a href="mailto:mdohr07@gmail.com">
     <img src="https://img.shields.io/badge/ask_me-anything-blueviolet.svg" alt="Email me">
   </a>
