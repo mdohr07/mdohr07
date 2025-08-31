@@ -1,7 +1,7 @@
 # About me 👽
 <p align="center">
-Frontend developer working with TypeScript, React, and Astro.<br>
-Drawn to the Indie Web, meaningful projects, and clean code, with an eye on mobile and fullstack in the future.
+Frontend developer working with TypeScript, React, and Astro.
+Drawn to the Indie Web, meaningful projects, and clean code, with an eye toward mobile and fullstack in the future.
 </p>
 
 <p align="center">
