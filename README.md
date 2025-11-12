@@ -45,9 +45,6 @@ Drawn to the Indie Web, meaningful projects, and clean code, with an eye toward 
   <a href="https://github.com/mdohr07/tarot-webapp"><b>Tarot Webapp</b></a><br>
   An interactive web app for drawing tarot cards, built with Java and tarot API. [With video preview]<br>
      <sub>[Java, HTML, CSS]</sub><br><br>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdohr07&theme=tokyonight&hide_border=false" width="400" />
-</p>
 
 <p align="center">•:•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•:•</p>
 
