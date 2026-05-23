@@ -22,10 +22,8 @@ Drawn to the Indie Web, meaningful projects, and clean code, with an eye toward 
 <hr>
 
 <p align="center">  
-    
-    <img src="https://mdohr.space/img/assets/mblip-full.png" alt="There could be an image here" width="300">  
+    <img src="https://mdohr.space/img/assets/mblip-full.png" alt="There could be an image here" width="300" />    
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="400" alt="there could be stats here"/>
-   
 </p>
 
 <hr>
