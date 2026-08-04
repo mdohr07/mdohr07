@@ -23,13 +23,6 @@ I care about clean, accessible interfaces — and about building things that are
 
 <hr>
 
-<p align="center">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdohr07&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="mdohr07's GitHub Stats" />
-</p>
-
-
-<hr>
-
 ## About me
 
 After several years as a freelance artist and designer, I retrained as an **IT Specialist in Application Development
